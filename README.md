@@ -11,5 +11,6 @@ PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x317D61bA51A625218
 - Burn, liquidity, contract wallets excluded from rewards distribution percentages 🤑
 Check out the whitepaper and great community on the official Telegram group. Don’t miss this absolute gem of a passive income generator. 
 
-https://t.me/BabyBilz
+Telegram group: https://t.me/BabyBilz
+
 Whitepaper: https://docdro.id/9WedtAi
